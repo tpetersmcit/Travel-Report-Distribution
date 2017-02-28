@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "Travel-Report-Distribution", "Travel-Report-Distribution.dtproj", "{4E48E3E8-819D-4267-996D-D5EDAE649DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E48E3E8-819D-4267-996D-D5EDAE649DFE}.Development|Default.ActiveCfg = Development
+		{4E48E3E8-819D-4267-996D-D5EDAE649DFE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
